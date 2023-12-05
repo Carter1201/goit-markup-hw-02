@@ -18,7 +18,7 @@ ul,ol {
 
 .logo {
     color:#4D5AE5;
-    font-family: Raleway, sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -117,17 +117,6 @@ display: none;
 .team-card {
     background-color: #FFF;
     text-align: center;
-}
-
-/* Our Portfolio */
-
-.portfolio {
-    border-color:#F4F4FD; 
-}
-.portfolio-item {
-    border-color:#E7E9FC;
-    border-width: 1px;
-    border-style: solid;        
 }
 
 /* Footer */
