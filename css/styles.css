@@ -24,7 +24,6 @@ ul,ol {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    font-style: normal;
 }
 .logo-header {
     color: #2E2F42;
@@ -87,7 +86,7 @@ button:focus {
 /* Styles for sections */
 
 .hidden-header {
-display: none;
+    display: none;
 }
 
 .our-team {    
